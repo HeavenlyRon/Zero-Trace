@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://zerotrace.game/sitemap.xml
+Sitemap: https://zerotrace-game.pages.dev/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
